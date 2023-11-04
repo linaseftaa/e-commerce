@@ -82,7 +82,11 @@ body{
     left: 20px;
 
 }
-
+#hero{
+    background-image: url(img/cloethes-removebg-preview.png);
+    height: 90vh;
+    left: 100%;
+}
 
 
 
